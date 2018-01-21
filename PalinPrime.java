@@ -1,8 +1,8 @@
-/** Program:
- * File:
- * Summary:
+/** Program: PalinPrime
+ * File: PalinPrime.java
+ * Summary: tests integers and displays the ones that are both prime and a palindrome
  * Author: Richard Boyd
- * Date:
+ * Date: January 21, 2018
  */
 
 public class PalinPrime {
